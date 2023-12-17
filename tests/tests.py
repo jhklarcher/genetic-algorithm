@@ -46,7 +46,7 @@ class TestGeneticAlgorithm(unittest.TestCase):
             return np.sum(x**2)
         bounds = np.array([-5*np.ones(2), 5*np.ones(2)])
         n_pop = 10
-        n_gen = 10
+        n_gen = 100
         crossover_prob = 0.4
         mutation_prob = 0.1
         best, f_best, history = ga_minimize(f, bounds, n_pop, n_gen,
