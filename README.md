@@ -38,6 +38,10 @@ This project implements a Genetic Algorithm (GA) in Python, designed for solving
 2. Define your optimization problem as a function.
 3. Call `ga_minimize` with your function and other GA parameters.
 
+## Examples
+
+See the [examples](examples) directory for some usage examples.
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
