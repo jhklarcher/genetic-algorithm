@@ -6,7 +6,6 @@ This is a personal project developed for educational purposes. For more mature a
 
 - [DEAP](https://github.com/DEAP/deap)
 - [PyGAD](https://github.com/ahmedfgad/GeneticAlgorithmPython)
-- PyEvolve
 
 ## Features
 
