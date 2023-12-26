@@ -2,6 +2,12 @@
 
 This project implements a Genetic Algorithm (GA) in Python, designed for solving optimization problems. The GA is capable of minimizing multi-dimensional functions through evolutionary techniques inspired by biological processes.
 
+This is a personal project developed for educational purposes. For more mature and robust implementations of GAs, check out:
+
+- [DEAP](https://github.com/DEAP/deap)
+- [PyGAD](https://github.com/ahmedfgad/GeneticAlgorithmPython)
+- PyEvolve
+
 ## Features
 
 - **Crossover**: Combines pairs of individuals to produce offspring, ensuring diversity and exploration of the solution space.
